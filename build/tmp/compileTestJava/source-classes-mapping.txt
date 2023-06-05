@@ -1,0 +1,4 @@
+programmers/SolutionTest.java
+ programmers.SolutionTest
+programmers/baemin/MoneyBoxTest.java
+ programmers.baemin.MoneyBoxTest
